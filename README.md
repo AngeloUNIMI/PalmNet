@@ -67,3 +67,7 @@ The databases used in the paper can be obtained at:
 	- Tongji:
 	  http://sse.tongji.edu.cn/linzhang/cr3dpalm/cr3dpalm.htm
 	
+The segmentation algorithm can be found at:
+
+	- https://github.com/AngeloUNIMI/PalmSeg 
+	
