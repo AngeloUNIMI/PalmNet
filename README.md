@@ -69,5 +69,5 @@ The databases used in the paper can be obtained at:
 	
 The segmentation algorithm can be found at:
 
-	- https://github.com/AngeloUNIMI/PalmSeg 
+	https://github.com/AngeloUNIMI/PalmSeg 
 	
