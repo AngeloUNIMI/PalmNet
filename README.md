@@ -37,7 +37,7 @@ Required files:
 
 Part of the code uses the Matlab source code of the paper:
 
-T. Chan, K. Jia, S. Gao, J. Lu, Z. Zeng and Y. Ma, <br/>
+- T. Chan, K. Jia, S. Gao, J. Lu, Z. Zeng and Y. Ma, <br/>
 "PCANet: A Simple Deep Learning Baseline for Image Classification?," <br/>
 in IEEE Transactions on Image Processing, vol. 24, no. 12, pp. 5017-5032, Dec. 2015.<br/>
 DOI: 10.1109/TIP.2015.2475625<br/>
@@ -45,13 +45,13 @@ DOI: 10.1109/TIP.2015.2475625<br/>
 	
 the VLFeat library:
 
-A. Vedaldi and B. Fulkerson, <br/>
+- A. Vedaldi and B. Fulkerson, <br/>
 "VLFeat: An Open and Portable Library of Computer Vision Algorithms", 2008, <br/>
 [http://www.vlfeat.org](http://www.vlfeat.org/)
 	
 and the functions by Peter Kovesi:
 
-Peter Kovesi, <br/>
+- Peter Kovesi, <br/>
 "MATLAB and Octave Functions for Computer Vision and Image Processing", <br/>
 [https://www.peterkovesi.com/matlabfns](https://www.peterkovesi.com/matlabfns/)
 	
