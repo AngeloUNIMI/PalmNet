@@ -6,7 +6,7 @@ Matlab source code for the paper:
 	"PalmNet: Gabor-PCA Convolutional Networks for Touchless Palmprint Recognition",
 	IEEE Transactions on Information Forensics and Security, 2019.
 	DOI: 10.1109/TIFS.2019.2911165
-	[ciao](https://ieeexplore.ieee.org/document/8691498)
+	(https://ieeexplore.ieee.org/document/8691498)
 	
 Project page:
 
