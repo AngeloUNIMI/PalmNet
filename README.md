@@ -31,7 +31,7 @@ Main files:
 Required files:
 
 - ./images: Database of images, with filenames in the format "NNNN_SSSS.ext", 
-    where NNNN is the 4-digit individual id, SSSS is the 4-digit sample id, and ext is the extension. 
+    where NNNN is the 4-digit individual id, SSSS is the 4-digit sample id, and ext is the extension. <br/>
     For example: "0001_0001.bmp" is the first sample of the first individual. 
     In the paper, left and right palms of the same person are considered as different individuals.
 
