@@ -13,7 +13,7 @@ Project page:
 [http://iebil.di.unimi.it/palmnet/index.htm](http://iebil.di.unimi.it/palmnet/index.htm)
     
 Outline:
-![Outline](http://iebil.di.unimi.it/palmnet/imgs/outline.jpg "Outline")
+![Outline](http://iebil.di.unimi.it/palmnet/imgs/outline2.jpg "Outline")
 
 Citation:
 
