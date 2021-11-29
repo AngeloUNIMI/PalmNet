@@ -20,16 +20,17 @@ Outline:
 
 Citation:
 
-	@Article{tifs19,
-		author = {A. Genovese and V. Piuri and K. N. Plataniotis and F. Scotti},
-		title = {PalmNet: Gabor-PCA Convolutional Networks for Touchless Palmprint Recognition},
-		journal = {IEEE Transactions on Information Forensics and Security},
-		volume={14}, 
-		number={12}, 
-		pages={3160-3174}, 
-		doi={10.1109/TIFS.2019.2911165}, 
-		ISSN={1556-6013}, 
-		month={December},}
+	@Article {tifs19,
+    	    author = {A. Genovese and V. Piuri and K. N. Plataniotis and F. Scotti},
+	    title = {PalmNet: Gabor-PCA Convolutional Networks for touchless palmprint recognition},
+	    journal = {IEEE Transactions on Information Forensics and Security},
+	    volume = {14},
+	    number = {2},
+	    pages = {3160-3174},
+	    month = {December},
+	    year = {2019},
+	    note = {1556-6013}
+	}
 
 Main files:
 
