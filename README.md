@@ -4,7 +4,7 @@ Matlab source code for the paper:
 
 	A. Genovese, V. Piuri, K. N. Plataniotis, and F. Scotti,
 	"PalmNet: Gabor-PCA Convolutional Networks for Touchless Palmprint Recognition",
-	IEEE Transactions on Information Forensics and Security, 2019.
+	IEEE Transactions on Information Forensics and Security, December 2019.
 	DOI: 10.1109/TIFS.2019.2911165
 
 Paper:
@@ -21,7 +21,7 @@ Outline:
 Citation:
 
 	@Article {tifs19,
-    	    author = {A. Genovese and V. Piuri and K. N. Plataniotis and F. Scotti},
+	    author = {A. Genovese and V. Piuri and K. N. Plataniotis and F. Scotti},
 	    title = {PalmNet: Gabor-PCA Convolutional Networks for touchless palmprint recognition},
 	    journal = {IEEE Transactions on Information Forensics and Security},
 	    volume = {14},
