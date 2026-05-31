@@ -249,8 +249,19 @@ http://iebil.di.unimi.it/palmnet/index.htm
 
 ## 🏛 Authors
 
-**Angelo Genovese**, **Vincenzo Piuri**, **Konstantinos N. Plataniotis**, and **Fabio Scotti**
+**Angelo Genovese**  
+Department of Computer Science  
+Università degli Studi di Milano, Italy
 
+**Vincenzo Piuri**  
+Department of Computer Science  
+Università degli Studi di Milano, Italy
+
+**Konstantinos N. Plataniotis**  
+Department of Electrical and Computer Engineering  
+University of Toronto, Canada
+
+**Fabio Scotti**  
 Department of Computer Science  
 Università degli Studi di Milano, Italy
 
