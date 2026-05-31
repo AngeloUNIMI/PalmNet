@@ -272,13 +272,3 @@ Università degli Studi di Milano, Italy
 This project is released under the **GNU General Public License v3.0**.
 
 See the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-### 🌴 PalmNet
-
-**Touchless palmprint recognition with adaptive Gabor-PCA convolutional features**
-
-</div>
