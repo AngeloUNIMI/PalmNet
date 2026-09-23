@@ -1,0 +1,6 @@
+# Install the appropriate CPU/CUDA build of PyTorch separately first.
+# Tested with Python 3.13.5 and torch 2.10.0+cpu. Python >=3.10 required.
+torch>=2.2
+numpy>=1.26
+scipy>=1.11
+Pillow>=10

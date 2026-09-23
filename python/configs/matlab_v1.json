@@ -1,0 +1,32 @@
+{
+  "image_size": null,
+  "pca_patch_size": 15,
+  "pca_filters": 15,
+  "retained_variance": null,
+  "num_orientation_bins": 45,
+  "default_orientations": 10,
+  "adaptive_orientations": 10,
+  "orientation_histogram": "legacy-range",
+  "sigma": 5.6179,
+  "spatial_frequency": 0.11,
+  "fixed_half_size": 17,
+  "samples_per_octave": 1,
+  "b0": 1.0,
+  "bandwidth_octaves": 1.5,
+  "aspect_ratio": 1.0,
+  "num_wavelet_responses": 10000,
+  "selected_wavelets": 5,
+  "hist_block_size": [
+    23,
+    23
+  ],
+  "block_overlap": 0.0,
+  "histogram_normalization": "matlab",
+  "feature_order": "matlab",
+  "dtype": "float64",
+  "convolution_backend": "auto",
+  "pca_patch_chunk": 16384,
+  "max_patches_per_image": null,
+  "response_batch_size": 4,
+  "seed": 0
+}

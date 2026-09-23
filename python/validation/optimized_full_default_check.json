@@ -1,0 +1,12 @@
+{
+  "execution_backend": "optimized",
+  "shape": [
+    2,
+    12288000
+  ],
+  "nnz": 325776,
+  "fit_seconds_cpu": 0.23294372300006216,
+  "extract_seconds_cpu": 0.15250683400017806,
+  "pca_filters": 15,
+  "gabor_filters": 15
+}

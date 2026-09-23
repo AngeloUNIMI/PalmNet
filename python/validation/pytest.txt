@@ -1,0 +1,9 @@
+...................................................                      [100%]
+=============================== warnings summary ===============================
+tests/test_numerics.py::test_parallel_path_loader_matches_serial
+tests/test_numerics.py::test_parallel_path_loader_matches_serial
+  /usr/lib/python3.13/multiprocessing/popen_fork.py:67: DeprecationWarning: This process (pid=3496) is multi-threaded, use of fork() may lead to deadlocks in the child.
+    self.pid = os.fork()
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+51 passed, 2 warnings in 2.58s

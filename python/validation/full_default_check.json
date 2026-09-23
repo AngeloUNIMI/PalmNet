@@ -1,0 +1,58 @@
+{
+  "configuration": "All MATLAB-v1 algorithm defaults; auto convolution backend; CPU float64",
+  "data": "Four synthetic 128x128 images for fitting; two for extraction, NOT benchmark data",
+  "pca_filters": 15,
+  "gabor_filters": 15,
+  "shape": [
+    2,
+    12288000
+  ],
+  "nnz": 165531,
+  "sparse_bytes": 1986384,
+  "dense_float64_bytes": 196608000,
+  "checkpoint_reload_exact": true,
+  "batch_size_1_vs_2_exact": true,
+  "elapsed_seconds": 0.9084914329999947,
+  "selected_filters": [
+    {
+      "kind": "adaptive",
+      "scale": 2,
+      "orientation_deg": 0.0,
+      "size": 16,
+      "selection_count": 1764,
+      "candidate_index": 40
+    },
+    {
+      "kind": "adaptive",
+      "scale": 2,
+      "orientation_deg": 18.0,
+      "size": 16,
+      "selection_count": 1764,
+      "candidate_index": 41
+    },
+    {
+      "kind": "adaptive",
+      "scale": 2,
+      "orientation_deg": 90.0,
+      "size": 16,
+      "selection_count": 1757,
+      "candidate_index": 55
+    },
+    {
+      "kind": "adaptive",
+      "scale": 2,
+      "orientation_deg": 36.0,
+      "size": 16,
+      "selection_count": 1754,
+      "candidate_index": 42
+    },
+    {
+      "kind": "adaptive",
+      "scale": 2,
+      "orientation_deg": 162.0,
+      "size": 16,
+      "selection_count": 1749,
+      "candidate_index": 59
+    }
+  ]
+}
