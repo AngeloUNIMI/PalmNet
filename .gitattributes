@@ -1,6 +1,7 @@
 *.m linguist-detectable=false
 *.py linguist-detectable=true
 *.c linguist-detectable=false
+*.h linguist-detectable=false
 *.cpp linguist-detectable=false
 *.js linguist-detectable=false
 *.html linguist-detectable=false
